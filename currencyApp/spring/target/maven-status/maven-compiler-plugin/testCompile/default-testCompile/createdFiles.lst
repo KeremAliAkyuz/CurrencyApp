@@ -1,0 +1,5 @@
+com/aliak/demo/service/CurrencyServiceImplTest.class
+com/aliak/demo/repository/CurrencyRepositoryTest.class
+com/aliak/demo/CurrencyApiApplicationTests.class
+com/aliak/demo/controller/CurrencyControllerTest.class
+com/aliak/demo/integration/CurrencyControllerIntegrationTest.class
