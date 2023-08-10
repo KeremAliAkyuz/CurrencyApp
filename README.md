@@ -33,7 +33,7 @@ You can reach all application logs with http://0.0.0.0:5601 url . The thing we d
 As default application scrapes data per 1 minute from internet.You can change this interval with navigate to pythonApp/crontab file and fix it.
 
 ### Postgres
-I upload a screenshot shows how data stored in database.
+I uploaded a screenshot shows how data stored in database.
 
 
 
